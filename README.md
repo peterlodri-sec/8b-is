@@ -12,7 +12,7 @@ This repository hosts raw research papers, mathematical proofs, LaTeX blueprints
   - `@standardgalactic`
   - `@8bit-wraith`
   - `@noslopy`
-  - Zoltan Lahocky
+  - `@Piedone` (Zoltán Lehoczky)
   - `@peterlodri-sec` (Owner)
 - **MCP Server Tool:** `mcp/raw_research_mcp.py`
 - **Raw Research Directory:** `raw_research/`
