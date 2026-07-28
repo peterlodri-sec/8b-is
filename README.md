@@ -8,8 +8,12 @@
 
 This repository hosts raw research papers, mathematical proofs, LaTeX blueprints, and Model Context Protocol (MCP) server tooling for **AXIOM QUANT**.
 
-- **Admin Collaborator:** `@standardgalactic`
-- **Owner:** `@peterlodri-sec`
+- **Admin Collaborators:**
+  - `@standardgalactic`
+  - `@8bit-wraith`
+  - `@noslopy`
+  - Zoltan Lahocky
+  - `@peterlodri-sec` (Owner)
 - **MCP Server Tool:** `mcp/raw_research_mcp.py`
 - **Raw Research Directory:** `raw_research/`
 
