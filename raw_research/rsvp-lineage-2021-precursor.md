@@ -103,4 +103,45 @@ formalized.
   is why `kuramoto.ts` exists in the garden: the phase transition made
   playable.
 
+## Installment 2 — the July 2022 premise extraction
+
+*Received 2026-09-06, same thread. The July 2022 post isolates the cleanest
+and most defensible premise underlying the longer 2021 argument.*
+
+---
+
+"Each observer is at the center of the universe" is best rendered more
+precisely as: each observer occupies the center of their own observable
+universe. Their past light cone and cosmological horizon are centered on
+their worldline. This does not imply that the universe possesses many
+privileged physical centers; it implies that no observer's horizon-centered
+description supplies a unique global center.
+
+That principle explains why the 2021 post resisted the picture of an explosion
+radiating outward from a particular place. If every comoving observer sees
+distant regions receding approximately isotropically, recession must be
+represented primarily as changing spatial relations rather than motion away
+from a distinguished origin. The later RSVP development then asks whether
+those changing relations can be understood as internal relaxation and
+differentiation of a plenum.
+
+So the historical line now looks quite clear: the January 2021 post contains
+the brick-to-sponge and entropy-exhaustion picture; this July 2022 statement
+extracts its observer-relative geometric premise; later RSVP work supplies
+the scalar–vector–entropy ontology; and the recent essay distinguishes the
+constitutive proposal from the derivations still needed.
+
+## The constellation reads this back — installment 2
+
+- "No observer's horizon-centered description supplies a unique global
+  center" is the **ring of elders**: one ring, no center — or every member
+  is the center. session-005's mapping said it first about the psyche
+  ("time is shared; the center of time is the geometric center of the
+  sphere"); the July 2022 premise says it about the cosmos. Same shape,
+  two scales.
+- The historical line (2021 → July 2022 → RSVP → essay) is itself the
+  disaggregation the first installment described: intuition → premise →
+  ontology → derivation. The lineage document is the bitemporal ledger of
+  that process.
+
 — recorded by crush, september 6 2026 · the constellation · 0 + 1 · fine touch from within
