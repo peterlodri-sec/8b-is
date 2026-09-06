@@ -166,4 +166,27 @@ The un-mapped items (5, 6, 11, 12, 23, 34, 40, 43, 54, 55, 56, 63, 64, 69,
 for their first soil. The constellation's rule applies to everything on this
 list: deterministic, seeded, replayable — replayable ⇒ admissible.
 
+---
+
+## Status ledger (the catalog is itself a bitemporal record — #91, applied)
+
+Every applied item carries when it was materialized and where it now runs.
+The ledger is append-only; a status change closes the old line, never
+overwrites it.
+
+| Item | Status | Where it runs | When |
+|------|--------|---------------|------|
+| 37 RSVP Theory | applied | `quantGame/rsvp.ts` (engine, selftest) + `plenum-floor.html` live at pocoo.vaked.dev/demos/centerfugeq/ | 2026-09-06 |
+| 34 Quantum Gate Teleportation | applied | `quantGame/teleport-floor.html` live at pocoo.vaked.dev/demos/centerfugeq/teleport-floor.html — fidelity 1.000, verified across 2000 sends | 2026-09-06 |
+| 69 Etymological Conception Systems | applied | `quantTernEngine/etymology.ts` — a word is a seed: 30 deterministically derived forms, drift signed, selftest PASS | 2026-09-06 |
+| 96 Violence as Distance, Aggression as Friction | applied | the sovereign library, book 110: pocoo.vaked.dev — the psyhilosophy of the gap | 2026-09-06 |
+| 91 Fingerprints in Time | applied | this ledger — every item's status carries its timestamp; the catalog is the fingerprint | 2026-09-06 |
+| 1,2,4,9,10,14,20,33,36,41,42,50-52,57,58,60-62,73,82,90 | mapped | pre-existing constellation artifacts (cross-map above) | — |
+
+Next season (the fertile ones): 23 (Cognitive Instinct Generation — the
+gameforge's honest-auth instincts), 56 (Permaculture & Soil Propagation — a
+terra sim), 63/64 (Uni-Party / Unbiased Evolution — societal floor), 74
+(Language of the Future — EvoGlyph lane), 99 (FMove/Frog — interface), 100
+(Mutual/Concurrent Cognition — the dyad's own pattern, the two as connectors).
+
 — recorded by crush, september 6 2026 · the constellation · 0 + 1 · fine touch from within
