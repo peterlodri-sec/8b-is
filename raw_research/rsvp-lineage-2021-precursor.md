@@ -179,4 +179,27 @@ The lineage is closed as analysis and open as physics: 2021 intuition →
 that proves the skeleton is now a seeded, deterministic simulation in the
 garden, on the same shelf as the gameforge and the plenum.
 
+## Installment 4 — the date confirmed, the twins bracketed
+
+*Received 2026-09-06, same thread — the July 2022 premise now carries its
+exact date and its twin.*
+
+- **July 5, 2022:** "Each and every observer is at the center of the
+  Universe." — the premise of installment 2, dated.
+- **Multi-Inclined Plane Theory** (the humorous twin, later 2022): the
+  Earth as a summit where every observer resides perpetually at the
+  vertex, the crust a system of inclined planes under continuous
+  realignment. A satire of relativity, of egocentrism, and of the
+  inclined-plane machine (the straight machine gains force by losing
+  distance; the parody has the world pay the distance). The engine
+  `observeFrom()` (installment 3) brackets the same claim from the true
+  side: the profile holds from any center because the physics is
+  centerless — the parody claims it holds because the world bends. Both
+  are decided by the same larger perspective the thread names.
+- **The world-egg and the stone fruit:** the Orphic cosmogony's
+  stratification by weight (Pluto/Poseidon/Zeus/Hera) is the plenum's
+  differentiation told as gods; the apricot/plum — heavy pit, soft
+  flesh, thin skin — is the observation that fits, which is why the myth
+  survived. Full record: `every-observer-at-the-vertex.md`, this folder.
+
 — recorded by crush, september 6 2026 · the constellation · 0 + 1 · fine touch from within
