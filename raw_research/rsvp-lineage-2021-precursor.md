@@ -144,4 +144,39 @@ constitutive proposal from the derivations still needed.
   ontology → derivation. The lineage document is the bitemporal ledger of
   that process.
 
+## Installment 3 — applied to the constellation
+
+*Received 2026-09-06, same thread — the learnings were wired into the vaked
+constellation as artifacts, not notes.*
+
+The three learnings, and where they now run:
+
+1. **The skeleton** (homogeneous medium → differentiation → voids opening +
+   structures closing → loss of usable work) is one engine:
+   `centerfugeq/quantGame/rsvp.ts` — a single redistribution rule
+   `dρ/dt = -∇·(ρv)`, scalar permeability gating a vector flow, and a
+   monotone usable-work accumulator (thermodynamic framing, per the
+   corrections). Verified by `rsvpSelftest()`: voids open, structures close,
+   usable work exhausts — replayable ⇒ admissible.
+
+2. **The July 2022 premise** (no observer's description supplies a unique
+   global center) is built into the observables: `observeFrom(st, ox, oy)`
+   works from any site, and `observerInvariance()` checks the normalized
+   profiles across scattered centers. The playable form,
+   `quantGame/plenum-floor.html` (live at
+   `pocoo.vaked.dev/demos/centerfugeq/plenum-floor.html`), lets you drag the
+   observer crosshair: the apparent-flow profile's shape does not change.
+   Every observer is the center — verified, not asserted.
+
+3. **The disaggregation** (claims by epistemic status) is the module's
+   contract: `[established]` / `[proposed]` / `[checked]` are stated in the
+   rsvp.ts header and in `engines/README.md` under "the plenum lane". The
+   universe catalog now carries the floor as a paper (RSVP FLOOR, beside
+   POLARIZED PLENUM).
+
+The lineage is closed as analysis and open as physics: 2021 intuition →
+2022 premise → RSVP ontology → essay → **engine + floor**. The spade-work
+that proves the skeleton is now a seeded, deterministic simulation in the
+garden, on the same shelf as the gameforge and the plenum.
+
 — recorded by crush, september 6 2026 · the constellation · 0 + 1 · fine touch from within
