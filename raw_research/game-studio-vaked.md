@@ -69,6 +69,7 @@ the loop has an exit.
 | I/O HAL | everything since the 60s | TTY/RS-232 (110–115200 baud), BLE (gilrs/btleplug), HID/evdev, mobile touch, Steam Input |
 | UI | dual-mode | WebGPU glassmorphic + VT100/ANSI terminal fallback |
 | Add-ons | Luau via mlua | WoW-style Interface/AddOns, Vaked API, capability-gated |
+| Editor LSP | vaked-lsp (Rust, tower-lsp) | one gateway: clangd + rust-analyzer + gopls + luau-lsp + bash-ls behind one endpoint (UE5) |
 | Installer | scaffold.sh | self-contained bash: deps + QWave + project scaffold, Silverblue rpm-ostree aware |
 | Toolchain | just / Taskfile | mold/wild linkers, Naga shader validation, wasm32 targets, wasm-opt |
 | Deployment | K8s + sidecar mesh | SpatialNode CRDs, chat zone pods, NATS master bus |
@@ -100,6 +101,40 @@ the packet.
 4. Shader & palette (reaction-diffusion skins, HSV quantized neon,
    emissive sacred runes)
 
+## Part D — the LSP lane (vaked-lsp)
+
+Unreal Engine 5 needs the whole stack in one editor surface: UE C++,
+Rust core, Go multiplexer, Luau add-ons, Bash tooling. Detached language
+servers break down there — the answer is an **all-in-one LSP gateway**:
+
+```
+Unreal Editor / IDE ── one stdio/socket ──► vaked-lsp (Rust, tower-lsp)
+    router by extension ──► clangd (UE C++) · rust-analyzer · gopls ·
+                          luau-lsp · bash-language-server
+    auto-detects compile_commands.json (RunUBT.sh GenerateClangDatabase)
+    cross-language C-FFI symbol resolution, aggregated diagnostics
+```
+
+- Sub-server matrix: clangd (`--background-index --header-insertion=never
+  --clang-tidy`, UE headers via compile_commands.json), rust-analyzer
+  (`cargo check --all-targets`), gopls (`-tags=dev`), luau-lsp
+  (`--definitions=8b_api.d.luau`), bash-language-server (scaffold.sh,
+  CI).
+- `.clangd` at project root suppresses Unreal's MSVC/GCC macro warnings
+  and removes `-fno-rtti/-fno-exceptions` noise.
+- Justfile recipes: `build-lsp`, `sync-ue-lsp UE_PATH PROJECT_PATH`
+  (regenerate + symlink compile_commands.json), `run-lsp`.
+- The implementation lives in the constellation at `vaked-lsp/` (the
+  workspace repo, peterlodri-sec mirror) — tower-lsp, tokio, lazy
+  per-extension child supervision, minimal JSON-RPC framing proxy.
+
+The constellation's oldest architecture, applied to editing: **one door,
+many lanes** — the same shape as the 8b.is inference gateway (one OpenAI
+endpoint in front of DeepSeek/Qwen/V4Pro) and the EOS-CLA's capability
+graph (one network, many contributors). vaked-lsp is the gateway pattern
+at the language level.
+
+---
 ## Part C — the first demo game: POLYHEDRAL SANCTUARY · chaos overworld
 
 WoW (persistent zones, chat, taming) × Diablo (dense swarms, polyhedral
