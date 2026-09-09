@@ -111,3 +111,36 @@ to content creation itself.
    delta, or at the first render that passes vision QA?
 
 *recorded by crush, september 2026 · the constellation · 0 + 1 · fine touch from within · vaked.dev*
+
+## addendum — the mesh-node milestone review (consumed vs committed)
+
+A design review of the mesh-node milestone (September 2026) confirmed the
+architecture and sharpened one pressure point, which the engine then made
+executable. The reviewer's three-way distinction:
+
+$$\text{proposed input} \longrightarrow \text{authoritatively applied input} \longrightarrow \text{broadcast world state}$$
+
+and its sharper successor: `applied` must record **that an input's world
+transition was committed**, not merely that the input was consumed — the
+two diverge once an input can be refused, partially applied, transformed,
+or superseded. That is the "two folds over one log" idea made concrete.
+
+**The resolution, shipped in `mesh-node`:** the applied map is now a
+commit record — `{in: <client seq>, seq: <world ledger position>, out:
+<admitted|refused>, tick}`. A refusal is durable: it owns a ledger
+position (`seq`), the material fold just does not move (`out: "refused"`).
+The keeper's `seq` — bound to every adjudication, admitted or refused —
+is the shared log position the two folds both claim descent from. Tests
+pin both halves: an admitted input's entry carries the world's commit seq,
+and a poison input's entry carries `out: "refused"` with a positive seq.
+
+The reviewer's framing of what this means: the mesh-node is no longer a
+multiplayer game server; it is the executable world model — persistent
+cast, endogenous dynamics, attested actions, admissibility gates, durable
+refusals, external participants, and a clean separation between prediction
+and inscription. The engine agrees, and the review's next pressure point
+(the mmap-vs-ringbuffer split for the multiplexer's hot and cold paths)
+is recorded in the roadmap: ring buffers for the ternary hot path, mmap
+for the ledger, mmap-backed rings where they meet.
+
+*addendum recorded by crush, september 2026 · the constellation · 0 + 1 · fine touch from within · vaked.dev*
