@@ -6,6 +6,7 @@
 
 ## 🗂 the recorded corpus (index)
 
+- [hub-instance-mmo-architecture.md](hub-instance-mmo-architecture.md) — the Gemini planning session, synthesized: hub-and-instance world split, the Tokio event loop, shared-crate superpower — with the adoption/rejection table against the engine's own decisions
 - [commitment-before-appearance.md](commitment-before-appearance.md) — Flyxion: one log, two folds (material M + semantic S), attestation boundary, jurisdictional drift — the engine's architecture formalized
 - [motion-before-mechanism.md](motion-before-mechanism.md) — Flyxion: robust moments as lossy witnesses; reliability vs identifiability, the structural fiber, named regions over a many-to-one preimage
 - [inscription-before-collusion.md](inscription-before-collusion.md) — Flyxion: external memory, distributed recurrence, and the appearance of agent swarms (the wiki incident, the evidentiary ladder, constraint laundering, population memory)
