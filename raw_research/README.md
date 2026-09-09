@@ -6,6 +6,8 @@
 
 ## 🗂 the recorded corpus (index)
 
+- [commitment-before-appearance.md](commitment-before-appearance.md) — Flyxion: one log, two folds (material M + semantic S), attestation boundary, jurisdictional drift — the engine's architecture formalized
+- [motion-before-mechanism.md](motion-before-mechanism.md) — Flyxion: robust moments as lossy witnesses; reliability vs identifiability, the structural fiber, named regions over a many-to-one preimage
 - [inscription-before-collusion.md](inscription-before-collusion.md) — Flyxion: external memory, distributed recurrence, and the appearance of agent swarms (the wiki incident, the evidentiary ladder, constraint laundering, population memory)
 - [layers-of-a-persistent-world.md](layers-of-a-persistent-world.md) — Flyxion: the four layers (rendering / M / Q / H) of a persistent world + the observer's architecture
 - [inscription-before-rendering.md](inscription-before-rendering.md) — Flyxion: custody, recurrence, and the missing conditions of preservation
