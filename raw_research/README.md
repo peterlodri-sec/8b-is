@@ -6,6 +6,7 @@
 
 ## 🗂 the recorded corpus (index)
 
+- [spherepop-toward-a-complete-theory.md](spherepop-toward-a-complete-theory.md) — Flyxion: the complete theory of histories-first computation — the four operators (Pop/Refuse/Bind/Collapse), the note taxonomy, VIEW vs COLLAPSE, GC as collapse, the L2 state illusion — the engine's operator set formalized
 - [hub-instance-mmo-architecture.md](hub-instance-mmo-architecture.md) — the Gemini planning session, synthesized: hub-and-instance world split, the Tokio event loop, shared-crate superpower — with the adoption/rejection table against the engine's own decisions
 - [commitment-before-appearance.md](commitment-before-appearance.md) — Flyxion: one log, two folds (material M + semantic S), attestation boundary, jurisdictional drift — the engine's architecture formalized
 - [motion-before-mechanism.md](motion-before-mechanism.md) — Flyxion: robust moments as lossy witnesses; reliability vs identifiability, the structural fiber, named regions over a many-to-one preimage
