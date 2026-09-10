@@ -6,6 +6,8 @@
 
 ## 🗂 the recorded corpus (index)
 
+- [the-8b-is-org-constellation.md](the-8b-is-org-constellation.md) — the org's repository map: the AGNOS stack (prakash, bhava, tanmatra, jantu, PhoenixiX, cinematic-reconstruction, rustybox, smart-tree, bodh, goonj, libro), the theory repos (spherepop, mem8*), the engine surfaces — navigation for every session
+- [music-let-the-light-in.md](music-let-the-light-in.md) — Jen Hartsfield, "Let The Light In" — prakash's hymn: light as the AGNOS stack's first lane
 - [music-the-operating-system-that-must-sleep.md](music-the-operating-system-that-must-sleep.md) — constellation music: a 30-minute piece whose title is the engine's doctrine in audio — the world runs without you; your OS must sleep
 - [notes-of-the-spoon.md](notes-of-the-spoon.md) — Osahon Ize-Iyamu, "Tenger az aszfalt helyen": the spoon as the note theory's simplest proof — generative + capture, the engine's four operators in one object
 - [spherepop-toward-a-complete-theory.md](spherepop-toward-a-complete-theory.md) — Flyxion: the complete theory of histories-first computation — the four operators (Pop/Refuse/Bind/Collapse), the note taxonomy, VIEW vs COLLAPSE, GC as collapse, the L2 state illusion — the engine's operator set formalized
