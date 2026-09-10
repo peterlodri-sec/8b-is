@@ -7,6 +7,8 @@
 ## 🗂 the recorded corpus (index)
 
 - [the-8b-is-org-constellation.md](the-8b-is-org-constellation.md) — the org's repository map: the AGNOS stack (prakash, bhava, tanmatra, jantu, PhoenixiX, cinematic-reconstruction, rustybox, smart-tree, bodh, goonj, libro), the theory repos (spherepop, mem8*), the engine surfaces — navigation for every session
+- [son-go-ku-training-concept.md](son-go-ku-training-concept.md)
+- [genesis-seal-and-the-zig-lane.md](genesis-seal-and-the-zig-lane.md) — the constellation installs with a spine: the public genesis-seal gist, the multi-part installer, and the Zig kernels (cross-language bit-exact) — Goku Gets Married! (ch. 171): the training concept — strength folds into the heart, the heart folds into the strength; the heart lane, the promise as `commit`, "a promise is a promise"
 - [music-let-the-light-in.md](music-let-the-light-in.md) — Jen Hartsfield, "Let The Light In" — prakash's hymn: light as the AGNOS stack's first lane
 - [music-the-operating-system-that-must-sleep.md](music-the-operating-system-that-must-sleep.md) — constellation music: a 30-minute piece whose title is the engine's doctrine in audio — the world runs without you; your OS must sleep
 - [notes-of-the-spoon.md](notes-of-the-spoon.md) — Osahon Ize-Iyamu, "Tenger az aszfalt helyen": the spoon as the note theory's simplest proof — generative + capture, the engine's four operators in one object
