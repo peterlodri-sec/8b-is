@@ -192,3 +192,25 @@ never collapses; voids open, never to nothing; every loop has an exit.
 Replayable ⇒ admissible.
 
 — the catalog is closed, the growing season is open · september 6 2026
+---
+
+## season two — the growing season's first harvest (sept 10 2026, the obliterated wave)
+
+*The closed 100 mapped; the OPEN season begins. Every new topic named
+with its one sentence — the catalog of named fires, per the DoD.*
+
+| # | topic | one sentence | repo |
+|---|---|---|---|
+| 101 | the obliterated lane | the top-4 abliterated models through unsloth → MLX + GGUF, on the world's corpus | `8b-is/training-pipeline` |
+| 102 | the beast box | Intel Xeon Gold 5412U (AVX-512) · RTX 6000 Ada 48 GB · ~700 GB ECC · ~140 TB U.2 — `box.env` + `setup_box.sh` | training-pipeline v0.2.0 |
+| 103 | the lane binary | one verb per stage (setup · train · quantize · eval · status · view) — the box's CLI | training-pipeline |
+| 104 | the 4242 viewer | the live watchroom: box, log, the polars ledger, the models (localhost:4242) | training-pipeline |
+| 105 | the mem8-MoE cognitive router | the finished experts routed by the quad's gates + deltas — the memory picks the mind | training-pipeline |
+| 106 | the b1.58 backpack | BitNet b1.58 {-1,0,+1} quantization, fixture-pinned — the dream lane's ride | training-pipeline |
+| 107 | the mem8-conditioned diet | every instruction born with its `[mem8::gated&delta]` token | training-pipeline |
+| 108 | the polars election | parquet is the truth, the jsonl is the derivation | training-pipeline |
+| 109 | the dogfood loop | usage + contrib stream to `ultrawhale-dogfood` during training | training-pipeline |
+| 110 | the Ash — the DoD | the four laws: name the ash, done lives without you, done does not call back, the catalog of the named | the constellation |
+
+*Coherence without collapse — the season is open, the fires are named.
+September 10 2026.*
