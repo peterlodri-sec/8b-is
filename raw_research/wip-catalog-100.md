@@ -216,6 +216,7 @@ with its one sentence — the catalog of named fires, per the DoD.*
 | 111 | the lane, drawn | the training-pipeline viz — the ternary waves, the qSpace mem8-quad canvas with the observer delta, the corridor diagram (engine `tools/unsloth/docs/pipeline-viz.html`) | `8b-is/8b-is-engine` |
 | 112 | the fuller corpus | the cogito reservoir (one mind per line, 10x cap) + the curated sails (instruct/reasoning/code/web) + `--cats` — the box cooks the field | training-pipeline |
 | 113 | the open teacher roster | Stub + Comet (600+ models) + Fused lane-models compose the Council; count + roster ledged per run | training-pipeline |
+| 114 | the V4.1 knob lane | the released DeepSeek-V4.1-Flash (763B) wrapped for the box: N-gram order (N=5 fits the shipped engram tables, N=6 refuses), per-token KV budget, the fp8 flake | training-pipeline |
 
 *Coherence without collapse — the season is open, the fires are named.
 September 10 2026.*
