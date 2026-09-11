@@ -8,11 +8,48 @@ POP → REFUSE → BIND → transform → verification bound → COLLAPSE → le
 
 | field | the lane's meaning |
 |---|---|
-| event_id | sha256(source\|content_hash)[:16] — the monotonic key |
-| timestamp | UTC, at the POP |
-| content_hash | sha256 of the payload bytes, bound at ingress |
-| source | who/what sent it (named, always) |
+| event_id | `sha256(source \|\| payload_hash)[:16]` — the **stable event key**, content-derived; the timestamp and ledger position carry the monotonic order, never this id |
+| timestamp | UTC, at the POP — the monotonic order lives HERE |
+| payload_hash | `sha256(payload_bytes)` — the hash binds the payload |
 | payload_reference | the path/HF ref the payload lives at |
+| source | who/what sent it (named, always) |
+
+The ledger chain binds the event **records** themselves
+(`attestation = sha256(prev \|\| cur)`); the head commits the whole
+history.
+
+## one sentence
+
+> POP establishes identity, REFUSE establishes admissibility, BIND
+> establishes relation, transforms propose outcomes, VERIFY re-derives
+> warrant, COLLAPSE makes one verified outcome operative, and the ledger
+> preserves both the path taken and the paths refused.
+
+The last clause is where the lane stops being a conventional CI pipeline:
+residuals and named refusals are preserved as records, not erased.
+
+## two expressions, one deep grammar
+
+The same protocol has two honest embeddings. The LANE/embedded style:
+one machine, one pipeline, logical boundaries, shared memory, trust by
+structure, failure is a path, replay the program, code defines the
+boundaries. The SERVICE/distributed style: a small city, physical +
+networked boundaries, explicit records, distrust by default, failure is
+a place (timeout → circuit open; retry → alternate executor; residual →
+preserved evidence), replay the history, contracts define the
+boundaries. The grammar both preserve:
+
+```
+something appears → POP → may it proceed? → REFUSE → what is it bound
+to? → BIND → produce a candidate → TRANSFORM → does it warrant
+acceptance? → VERIFY → make one outcome operative → COLLAPSE → do not
+erase how we got there → LEDGER
+```
+
+`pops.py` is the lane's side of that grammar, kept narrow on purpose:
+the protocol kernel verifies the succession, the corridor supplies the
+transforms and semantic verifiers, the ledger preserves, and (in the
+service style) the same records become the space between programs.
 
 ## the pipeline, mapped to what we already had
 
