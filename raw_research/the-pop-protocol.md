@@ -28,6 +28,16 @@ history.
 The last clause is where the lane stops being a conventional CI pipeline:
 residuals and named refusals are preserved as records, not erased.
 
+## the city is running
+
+The distributed expression is alive on bonobo@Memex: eight containers
+on flyxion/alpine-minimal (`spherepop-pop · refuse · bind · xyloid ·
+macrolife · verify · collapse · ledger`). The treaty is written:
+`training-pipeline/pops.contract.json` (the nine-field record schema,
+kernel-validated) and `docs/spherepop-contract.md` (the container → kind
+map + the machinery table). Lane kernel and the city speak the same
+records; the contract is the boundary.
+
 ## two expressions, one deep grammar
 
 The same protocol has two honest embeddings. The LANE/embedded style:
