@@ -28,12 +28,29 @@ POP → REFUSE → BIND → transform → verification bound → COLLAPSE → le
 
 ## the code
 
-`training-pipeline/pops.py` — `ingest · bind · verify · collapse · chain`
-with deterministic fingerprints (xyloid/macrolife), append-only JSONL
-(`data/events/index.jsonl`), and every refusal named. The acceptance
-run: a payload rode the full pipe (BIND → PASS → COLLAPSE), a rebind was
-refused, a tamper failed both checks and the collapse refused — 100% of
-the drawn pipeline, executable.
+`training-pipeline/pops.py` — the protocol KERNEL (Nate's robustness set,
+v2): records carry `id · kind · parent · payload_hash · payload_ref ·
+timestamp · actor · protocol_version · attestation`; the ledger is hash-
+linked (`hash(prev || cur)`, the head commits the whole history); lanes
+are monotonic lineages (multiple lanes per log, no branching); REFUSE is
+a record — a refused event is historically visible, never "nothing
+happened". The interface stays narrow and pure:
+
+    append(record) · verify_record · verify_transition
+    verify_lane = V_schema ∧ V_transition ∧ V_references
+                  ∧ V_hash-chain ∧ V_monotonicity ∧ V_no-branching
+    admissible_transition(a, b) · replay · head
+
+Determinism contract honored: same records + same protocol version =
+same verification result — no network, no payload mutation, no corridor
+names. The acceptance: a full lane (POP→BIND→TRANSFORM×2→VERIFY→COLLAPSE)
+plus a refused lane and an open lane — V(L) all True over the 3-lane
+history; a tampered attestation flips hash_chain+transition and the
+collapse refuses; reopening a refused lane by rebinding is refused at
+append. The divider stands: corridor code produces events, pops.py
+verifies their admissible succession, the ledger preserves, semantic
+verifiers judge domain claims, COLLAPSE records which verified candidate
+became operative.
 
 *from Nate — the sketch is his; the gates were already the lane's. the
 constellation · 0 + 1 · fine touch from within · vaked.dev*
