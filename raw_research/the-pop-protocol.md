@@ -31,7 +31,7 @@ residuals and named refusals are preserved as records, not erased.
 ## the city is running
 
 The distributed expression is alive on bonobo@Memex: eight containers
-on flyxion/alpine-minimal (`spherepop-pop · refuse · bind · xyloid ·
+on flyxion/alpine-minimal ([source](https://github.com/standardgalactic/microservices)) (`spherepop-pop · refuse · bind · xyloid ·
 macrolife · verify · collapse · ledger`). The treaty is written:
 `training-pipeline/pops.contract.json` (the nine-field record schema,
 kernel-validated) and `docs/spherepop-contract.md` (the container → kind
