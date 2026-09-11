@@ -224,5 +224,7 @@ with its one sentence — the catalog of named fires, per the DoD.*
 
 | 119 | the treaty/parity | the Go city (bonobo@Memex, flyxion/spherepop-core) and the pops.py kernel speak the SAME records — event ids bit-exact (src|hash), V(L) green on both | training-pipeline + spherepop-microservices |
 
+| 120 | the caldera pattern | persistence by substrate, control by topology — the thermal clutch lattice as the lane's own transport doctrine (recalled from the memory corpus) | the vault |
+
 *Coherence without collapse — the season is open, the fires are named.
 September 10 2026.*

@@ -8,6 +8,7 @@
 
 - [the-8b-is-org-constellation.md](the-8b-is-org-constellation.md) — the org's repository map: the AGNOS stack (prakash, bhava, tanmatra, jantu, PhoenixiX, cinematic-reconstruction, rustybox, smart-tree, bodh, goonj, libro), the theory repos (spherepop, mem8*), the engine surfaces — navigation for every session
 - [son-go-ku-training-concept.md](son-go-ku-training-concept.md)
+- [the-caldera-pattern.md](the-caldera-pattern.md) — the caldera reactor: persistence by substrate, control by topology — the thermal clutch knot lattice, absorbed as the lane's transport doctrine (markers over clients, survive the sea state)
 - [a-var-the-castle-and-the-sand.md](a-var-the-castle-and-the-sand.md) — the castle is what we build and keep; the sand is what hosts it and shifts without notice — mapped against the lane's own walls (unsloth's vanished APIs, the recycled T4, the quota that is not a floor); the art is only in not confusing the two
 - [the-illustrated-man-surfaces-wear-the-stories.md]
 - [graph-and-network-theory-foundations.md]
