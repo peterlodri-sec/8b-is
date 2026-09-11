@@ -220,6 +220,7 @@ with its one sentence — the catalog of named fires, per the DoD.*
 | 115 | the visible oven | the T4 watches itself: the 15s heartbeat, the attached client, the marker-polls, and the harvest that seats named picks into HF with a card + manifest | training-pipeline |
 | 116 | a vár | the castle-and-the-sand essay, absorbed: what we build and keep vs the sand that hosts us — markers over clients, lora over derivations, the box as the owned sand | `8b-is/raw_research` |
 | 117 | the naming | every baked pick leaves the oven as `<base>-lane-e<effort>-s<steps>-<ts>` with `run.json` + `.sprint.name` — the ledger-ready identity | training-pipeline |
+| 118 | the POP protocol (from Nate :) | the lane's record layer drawn as a real pipeline — POP · REFUSE · BIND · xyloid/macrolife · verification bound · COLLAPSE · ledger — five fields, content-hash bound, executable (`pops.py`) | training-pipeline |
 
 *Coherence without collapse — the season is open, the fires are named.
 September 10 2026.*
