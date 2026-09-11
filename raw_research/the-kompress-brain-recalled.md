@@ -29,7 +29,7 @@ The graph IS the operator's lattice (lodri is a node — the entity
 occupies its own address), and the recall surface is the graph's
 front door: query → hybrid fold → evidence with source commits, always
 `content_is_untrusted: true`. The lane's memory doctrine mirrors the
-castlevand-sand: the graph is the castle (rigid, structural), the
+castle-and-the-sand: the graph is the castle (rigid, structural), the
 decay curves are the sand (they breathe); the Composer's liveness line
 is the heartbeat this session put in the oven — the same refactoring,
 one level up.
