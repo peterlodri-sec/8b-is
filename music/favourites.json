@@ -1,0 +1,337 @@
+{
+ "count": 35,
+ "tracks": [
+  {
+   "artist": "ZOE",
+   "title": "Sombras",
+   "album": "MTV Unplugged: Música de Fondo",
+   "genre": "Rock y Alternativo",
+   "loved": true,
+   "rating": null,
+   "plays": 49
+  },
+  {
+   "artist": "Nine Inch Nails",
+   "title": "Right Where It Belongs",
+   "album": "With Teeth (Bonus Tracks)",
+   "genre": "Alternative",
+   "loved": true,
+   "rating": null,
+   "plays": 34
+  },
+  {
+   "artist": "ZOE",
+   "title": "Veneno",
+   "album": "MTV Unplugged: Música de Fondo",
+   "genre": "Rock y Alternativo",
+   "loved": true,
+   "rating": null,
+   "plays": 32
+  },
+  {
+   "artist": "Charlotte Adigéry & Bolis Pupul",
+   "title": "Haha",
+   "album": "Topical Dancer",
+   "genre": "Electronica",
+   "loved": true,
+   "rating": null,
+   "plays": 26
+  },
+  {
+   "artist": "Super Flu",
+   "title": "Go",
+   "album": "Go Re Nue - Single",
+   "genre": "Dance",
+   "loved": true,
+   "rating": null,
+   "plays": 20
+  },
+  {
+   "artist": "Maribou State",
+   "title": "Feel Good (feat. Khruangbin)",
+   "album": "Kingdoms In Colour",
+   "genre": "Electronic",
+   "loved": true,
+   "rating": null,
+   "plays": 15
+  },
+  {
+   "artist": "Crystal Castles",
+   "title": "Untrust Us",
+   "album": "Crystal Castles",
+   "genre": "Electronic",
+   "loved": true,
+   "rating": null,
+   "plays": 15
+  },
+  {
+   "artist": "Maksim Dark",
+   "title": "Andromeda",
+   "album": "Andromeda - Single",
+   "genre": "Techno",
+   "loved": true,
+   "rating": null,
+   "plays": 12
+  },
+  {
+   "artist": "Maksim Dark",
+   "title": "Saturn",
+   "album": "Dizziness - Single",
+   "genre": "Techno",
+   "loved": true,
+   "rating": null,
+   "plays": 10
+  },
+  {
+   "artist": "Monolink",
+   "title": "The Prey",
+   "album": "The Prey - Single",
+   "genre": "Electronica",
+   "loved": true,
+   "rating": null,
+   "plays": 9
+  },
+  {
+   "artist": "TOOL",
+   "title": "Schism",
+   "album": "Lateralus",
+   "genre": "Metal",
+   "loved": true,
+   "rating": null,
+   "plays": 7
+  },
+  {
+   "artist": "Oliver Koletzki",
+   "title": "Copal",
+   "album": "Made of Wood",
+   "genre": "Dance",
+   "loved": true,
+   "rating": null,
+   "plays": 7
+  },
+  {
+   "artist": "Nine Inch Nails",
+   "title": "Hurt (Live)",
+   "album": "And All That Could Have Been (Live) [Deluxe Edition]",
+   "genre": "Alternative",
+   "loved": true,
+   "rating": null,
+   "plays": 5
+  },
+  {
+   "artist": "Einmusik",
+   "title": "Farina",
+   "album": "Bella Mar 07",
+   "genre": "Techno",
+   "loved": true,
+   "rating": null,
+   "plays": 5
+  },
+  {
+   "artist": "Oliver Koletzki",
+   "title": "Bones (feat. HVOB)",
+   "album": "I am OK",
+   "genre": "Electronic",
+   "loved": true,
+   "rating": null,
+   "plays": 5
+  },
+  {
+   "artist": "Red Hot Chili Peppers",
+   "title": "Otherside",
+   "album": "Greatest Hits",
+   "genre": "Rock",
+   "loved": true,
+   "rating": null,
+   "plays": 5
+  },
+  {
+   "artist": "Co Lee",
+   "title": "Totem",
+   "album": "Cerberus - Single",
+   "genre": "Hip-Hop/Rap",
+   "loved": true,
+   "rating": null,
+   "plays": 4
+  },
+  {
+   "artist": "Oliver Koletzki",
+   "title": "Spiritual but Not Religious",
+   "album": "The Arc of Tension",
+   "genre": "House",
+   "loved": true,
+   "rating": null,
+   "plays": 2
+  },
+  {
+   "artist": "Oliver Koletzki",
+   "title": "A Tribe Called Kotori",
+   "album": "The Arc of Tension",
+   "genre": "House",
+   "loved": true,
+   "rating": null,
+   "plays": 2
+  },
+  {
+   "artist": "Oliver Koletzki",
+   "title": "Tankwa Town",
+   "album": "The Arc of Tension",
+   "genre": "House",
+   "loved": true,
+   "rating": null,
+   "plays": 2
+  },
+  {
+   "artist": "Crystal Castles",
+   "title": "Kerosene",
+   "album": "(III)",
+   "genre": "Alternative",
+   "loved": true,
+   "rating": null,
+   "plays": 2
+  },
+  {
+   "artist": "Crystal Castles",
+   "title": "Transgender",
+   "album": "(III)",
+   "genre": "Alternative",
+   "loved": true,
+   "rating": null,
+   "plays": 2
+  },
+  {
+   "artist": "Sen Senra",
+   "title": "Nada y Nadie",
+   "album": "Nada y Nadie - Single",
+   "genre": "Pop Latino",
+   "loved": true,
+   "rating": null,
+   "plays": 1
+  },
+  {
+   "artist": "Beatamines & David Jach",
+   "title": "How Never",
+   "album": "Something Soul",
+   "genre": "House",
+   "loved": true,
+   "rating": null,
+   "plays": 1
+  },
+  {
+   "artist": "Oliver Koletzki",
+   "title": "Copal (Hidden Empire 20yrs SVT Remix)",
+   "album": "Copal (20yrs SVT Remixed) - Single",
+   "genre": "Dance",
+   "loved": true,
+   "rating": null,
+   "plays": 1
+  },
+  {
+   "artist": "Rafael Cerato & Lunar Plane",
+   "title": "Darkclaw",
+   "album": "Rafael Cerato  Transcode",
+   "genre": "Electronica",
+   "loved": true,
+   "rating": null,
+   "plays": 1
+  },
+  {
+   "artist": "Andhim & Super Flu",
+   "title": "Reeves",
+   "album": "Reeves",
+   "genre": "Electronic",
+   "loved": true,
+   "rating": null,
+   "plays": 1
+  },
+  {
+   "artist": "Sen Senra",
+   "title": "86.400",
+   "album": "Sensaciones",
+   "genre": "Pop",
+   "loved": true,
+   "rating": null,
+   "plays": 0
+  },
+  {
+   "artist": "Moonwalk",
+   "title": "Onisia",
+   "album": "Teenage Mutants vs. Moonwalk - EP",
+   "genre": "House",
+   "loved": true,
+   "rating": null,
+   "plays": 0
+  },
+  {
+   "artist": "Solee",
+   "title": "Sommerliebe",
+   "album": "The Seven Year Itch",
+   "genre": "Electronic",
+   "loved": true,
+   "rating": null,
+   "plays": 0
+  },
+  {
+   "artist": "Rampa",
+   "title": "Mod",
+   "album": "Workparty Five",
+   "genre": "Electronic",
+   "loved": true,
+   "rating": null,
+   "plays": 0
+  },
+  {
+   "artist": "Oliver Koletzki",
+   "title": "Fifty Ways to Love Your Liver (feat. Jack the Rapper)",
+   "album": "Großstadtmärchen 2 (Deluxe Version)",
+   "genre": "Electronica",
+   "loved": true,
+   "rating": null,
+   "plays": 0
+  },
+  {
+   "artist": "Kolm",
+   "title": "Ripple",
+   "album": "Umbra",
+   "genre": "Rock",
+   "loved": true,
+   "rating": null,
+   "plays": 0
+  },
+  {
+   "artist": "Oliver Koletzki",
+   "title": "What Remains (pølaroit Remix)",
+   "album": "What Remains (pølaroit Remix) - Single",
+   "genre": "Techno",
+   "loved": true,
+   "rating": null,
+   "plays": 0
+  },
+  {
+   "artist": "Barbárfivérek",
+   "title": "Úthenger (feat. DJ Majestik)",
+   "album": "Úthenger",
+   "genre": "Hip-Hop/Rap",
+   "loved": true,
+   "rating": null,
+   "plays": 0
+  }
+ ],
+ "genre_mix": {
+  "Electronic": 6,
+  "House": 5,
+  "Alternative": 4,
+  "Electronica": 4,
+  "Techno": 4,
+  "Dance": 3
+ },
+ "playlist_names": [
+  "Library",
+  "Downloaded",
+  "Music",
+  "Classical Sleep",
+  "Electronic in Spatial Audio",
+  "Red Hot Chili Peppers Essentials",
+  "Sia Essentials"
+ ]
+}
