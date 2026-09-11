@@ -222,5 +222,7 @@ with its one sentence — the catalog of named fires, per the DoD.*
 | 117 | the naming | every baked pick leaves the oven as `<base>-lane-e<effort>-s<steps>-<ts>` with `run.json` + `.sprint.name` — the ledger-ready identity | training-pipeline |
 | 118 | the POP protocol (from Nate :) | the lane's record layer drawn as a real pipeline — POP · REFUSE · BIND · xyloid/macrolife · verification bound · COLLAPSE · ledger — five fields, content-hash bound, executable (`pops.py`) | training-pipeline |
 
+| 119 | the treaty/parity | the Go city (bonobo@Memex, flyxion/spherepop-core) and the pops.py kernel speak the SAME records — event ids bit-exact (src|hash), V(L) green on both | training-pipeline + spherepop-microservices |
+
 *Coherence without collapse — the season is open, the fires are named.
 September 10 2026.*

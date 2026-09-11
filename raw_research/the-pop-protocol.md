@@ -35,8 +35,10 @@ on flyxion/alpine-minimal (`spherepop-pop · refuse · bind · xyloid ·
 macrolife · verify · collapse · ledger`). The treaty is written:
 `training-pipeline/pops.contract.json` (the nine-field record schema,
 kernel-validated) and `docs/spherepop-contract.md` (the container → kind
-map + the machinery table). Lane kernel and the city speak the same
-records; the contract is the boundary.
+map + the machinery table). Lane kernel and the city speak the same records; the contract is
+the boundary. **Cross-parity closed**: the Go city's event ids match
+the canonical `sha256(source | payload_hash)[:16]` bit-exactly on two
+live samples — the single-pipe derivation won, the kernel converged.
 
 ## two expressions, one deep grammar
 
