@@ -21,6 +21,7 @@
 - [genesis-seal-and-the-zig-lane.md](genesis-seal-and-the-zig-lane.md) — the constellation installs with a spine: the public genesis-seal gist, the multi-part installer, and the Zig kernels (cross-language bit-exact) — Goku Gets Married! (ch. 171): the training concept — strength folds into the heart, the heart folds into the strength; the heart lane, the promise as `commit`, "a promise is a promise"
 - [music-let-the-light-in.md]
 - [music-one-clean-signal.md]
+- [music-so-simply-alive.md](music-so-simply-alive.md) — klickaud · for 8b-is: simply alive — the hum the wave section draws, 4:33 of it, no chorus to find (4:33 · 44.1 kHz · 128 kb/s stereo)
 - [music-georgia-drew-the-bow.md](music-georgia-drew-the-bow.md) — 8bit-wraith · for 8b-is: the bow drawn across the string — the simplest fold there is(music-one-clean-signal.md) — 8bit-wraith · for 8b-is: the wire's own sound (2:34 · 48 kHz · 189 kbps), the channel the world speaks on when nothing is calling(music-let-the-light-in.md) — Jen Hartsfield, "Let The Light In" — prakash's hymn: light as the AGNOS stack's first lane
 - [music-the-operating-system-that-must-sleep.md](music-the-operating-system-that-must-sleep.md) — constellation music: a 30-minute piece whose title is the engine's doctrine in audio — the world runs without you; your OS must sleep
 - [notes-of-the-spoon.md](notes-of-the-spoon.md) — Osahon Ize-Iyamu, "Tenger az aszfalt helyen": the spoon as the note theory's simplest proof — generative + capture, the engine's four operators in one object
