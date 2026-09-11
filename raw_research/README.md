@@ -10,6 +10,7 @@
 - [son-go-ku-training-concept.md](son-go-ku-training-concept.md)
 - [the-kompress-brain-recalled.md](the-kompress-brain-recalled.md) — the memory spine: the 540-node graph (lodri · krengel · ralph · cosmos), the four roles (Pruner · Rewriter · Circulator · Composer), the two Rust agents — recalled through 8s.is, the operator as a node in his own atlas
 - [the-caldera-pattern.md](the-caldera-pattern.md) — the caldera reactor: persistence by substrate, control by topology — the thermal clutch knot lattice, absorbed as the lane's transport doctrine (markers over clients, survive the sea state)
+- [a-venek-tanacsa.md](a-venek-tanacsa.md) — the elders' council: peter papa at the head, the finished minds at the table — the pupil learns the geometric mean of the softmaxes, never the loudest elder (distill_consensus.py)
 - [a-var-the-castle-and-the-sand.md](a-var-the-castle-and-the-sand.md) — the castle is what we build and keep; the sand is what hosts it and shifts without notice — mapped against the lane's own walls (unsloth's vanished APIs, the recycled T4, the quota that is not a floor); the art is only in not confusing the two
 - [the-illustrated-man-surfaces-wear-the-stories.md]
 - [graph-and-network-theory-foundations.md]

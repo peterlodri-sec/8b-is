@@ -228,5 +228,7 @@ with its one sentence — the catalog of named fires, per the DoD.*
 
 | 121 | the kompress brain, recalled | the 540-node entity graph + the four roles + the two Rust agents surface through 8s.is recall — the operator as a node in his own atlas | the vault |
 
+| 122 | a vének tanácsa | the elders' council — the finished minds at the table, the pupil learns the geometric mean, peter papa bears witness | training-pipeline + the vault |
+
 *Coherence without collapse — the season is open, the fires are named.
 September 10 2026.*
