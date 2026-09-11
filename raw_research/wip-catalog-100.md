@@ -217,6 +217,9 @@ with its one sentence — the catalog of named fires, per the DoD.*
 | 112 | the fuller corpus | the cogito reservoir (one mind per line, 10x cap) + the curated sails (instruct/reasoning/code/web) + `--cats` — the box cooks the field | training-pipeline |
 | 113 | the open teacher roster | Stub + Comet (600+ models) + Fused lane-models compose the Council; count + roster ledged per run | training-pipeline |
 | 114 | the V4.1 knob lane | the released DeepSeek-V4.1-Flash (763B) wrapped for the box: N-gram order (N=5 fits the shipped engram tables, N=6 refuses), per-token KV budget, the fp8 flake | training-pipeline |
+| 115 | the visible oven | the T4 watches itself: the 15s heartbeat, the attached client, the marker-polls, and the harvest that seats named picks into HF with a card + manifest | training-pipeline |
+| 116 | a vár | the castle-and-the-sand essay, absorbed: what we build and keep vs the sand that hosts us — markers over clients, lora over derivations, the box as the owned sand | `8b-is/raw_research` |
+| 117 | the naming | every baked pick leaves the oven as `<base>-lane-e<effort>-s<steps>-<ts>` with `run.json` + `.sprint.name` — the ledger-ready identity | training-pipeline |
 
 *Coherence without collapse — the season is open, the fires are named.
 September 10 2026.*
