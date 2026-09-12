@@ -232,5 +232,7 @@ with its one sentence — the catalog of named fires, per the DoD.*
 
 | 123 | the metric contestation | liquid demarchy's meta-mechanisms mapped onto the POP primitives — rubrics, circuit-breakers, bounties, escrow, o-cap vetoes (Reynolds gloss absorbed) | the vault |
 
+| 124 | i1.is, absorbed | personal intelligent infrastructure — transparent PKI ≠ trust but verify, distributed CAs = distributed elders, containers = the box, unified DNS+PKI+identity = one ledger contract | the vault |
+
 *Coherence without collapse — the season is open, the fires are named.
 September 10 2026.*
