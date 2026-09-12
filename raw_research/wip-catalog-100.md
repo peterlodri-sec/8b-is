@@ -230,5 +230,7 @@ with its one sentence — the catalog of named fires, per the DoD.*
 
 | 122 | a vének tanácsa | the elders' council — the finished minds at the table, the pupil learns the geometric mean, peter papa bears witness | training-pipeline + the vault |
 
+| 123 | the metric contestation | liquid demarchy's meta-mechanisms mapped onto the POP primitives — rubrics, circuit-breakers, bounties, escrow, o-cap vetoes (Reynolds gloss absorbed) | the vault |
+
 *Coherence without collapse — the season is open, the fires are named.
 September 10 2026.*
