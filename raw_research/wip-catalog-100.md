@@ -242,5 +242,7 @@ with its one sentence — the catalog of named fires, per the DoD.*
 
 | 129 | the hook kit | the SOTA Claude-Code-like hook surface (UserPromptSubmit · PreToolUse · PostToolUse · PermissionDecision · Notification · Stop) mapped to POP/REFUSE/BIND/VERIFY/COLLAPSE/LEDGER, under enthea's consent-before-injection doctrine — doctrine.sh + payload-guard.py in engine/enthea/hooks | 8b-is-engine |
 
+| 130 | the first spark, absorbed | the soul map = the constellation's mirror — numbers as syntax, minted-once signatures, arcana trinity = the deep grammar; Sparkverse joins the body | 8b-is-engine + thefirstspark.shop |
+
 *Coherence without collapse — the season is open, the fires are named.
 September 10 2026.*
