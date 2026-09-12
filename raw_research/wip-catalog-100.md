@@ -234,5 +234,7 @@ with its one sentence — the catalog of named fires, per the DoD.*
 
 | 124 | i1.is, absorbed | personal intelligent infrastructure — transparent PKI ≠ trust but verify, distributed CAs = distributed elders, containers = the box, unified DNS+PKI+identity = one ledger contract | the vault |
 
+| 125 | the imaginary web, absorbed | i1.is as the resolver that fabricates — 0-5 trust DNS, tolerance knobs, auto-generated better versions, Mem|8 nexus = the ledger over DNS | the vault |
+
 *Coherence without collapse — the season is open, the fires are named.
 September 10 2026.*
